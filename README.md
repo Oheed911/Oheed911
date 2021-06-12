@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oheed911
+- 👋 Hi, I’m aheed/oheed
 - 
 <!---
 Oheed911/Oheed911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
